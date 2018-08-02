@@ -1,0 +1,8 @@
+*.epf
+*.EPF
+*.o
+dump
+epfunpack
+*.swp
+*.cmp
+*.dec
